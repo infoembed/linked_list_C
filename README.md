@@ -2,4 +2,4 @@
 example for using linked list using language
 
 
-i add some words
+i add some words ad things

@@ -28,7 +28,7 @@ int main(){
 
     print_list(head);
 
-
+    print_list(head);
 
    return 0;
 
